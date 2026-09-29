@@ -34,3 +34,11 @@
 </div>
 
 -----
+<div align="justify">
+
+Sou estudante de <a href="https://www.uva.br/" target="_blank">Ciência da Computação</a> na <a href="https://www.uva.br/" target="_blank">Universidade Veiga de Almeida (UVA)</a>, atualmente no 4º período. Tenho interesse em desenvolvimento de software, engenharia de software, algoritmos, estruturas de dados, sistemas operacionais, arquitetura de computadores e inteligência artificial.
+
+Atualmente, estou construindo minha base técnica em programação e Ciência da Computação, com foco principalmente no ecossistema <a href="https://www.java.com/" target="_blank">Java</a> e no desenvolvimento de aplicações back-end. Este repositório reúne tudo o que venho aprendendo e praticando ao longo da minha formação, incluindo estudos, exercícios, projetos, desafios de programação e experimentos com diferentes tecnologias.
+
+</div>
+
