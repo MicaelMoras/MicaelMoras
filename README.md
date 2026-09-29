@@ -55,7 +55,9 @@ A ideia é utilizar este espaço como um registro da minha evolução como desen
     <td align="center" colspan="12"></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/MicaelMoras/MicaelMoras/blob/main/Img/python.png"/></a></td>
     <td align="center"><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/MicaelMoras/MicaelMoras/blob/main/Img/c.png"/></a></td>
+   <td align="center"><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/MicaelMoras/MicaelMoras/blob/main/Img/csharp.png"/></a></td>
     <td align="center"><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/MicaelMoras/MicaelMoras/blob/main/Img/java.png"/></a></td>
     <td align="center"><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://github.com/MicaelMoras/MicaelMoras/blob/main/Img/javafx.png"/></a></td>
     <td align="center"><a href="https://spring.io/" target="_blank"><img width="32" height="32" src="https://github.com/MicaelMoras/MicaelMoras/blob/main/Img/spring.png"/></a></td>
@@ -80,6 +82,7 @@ A ideia é utilizar este espaço como um registro da minha evolução como desen
     <td align="center"><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/MicaelMoras/MicaelMoras/blob/main/Img/vs.png"/></a></td>
     <td align="center"><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/MicaelMoras/MicaelMoras/blob/main/Img/intellij.png"/></a></td>
     <td align="center"><a href="https://claude.ai/" target="_blank"><img width="32" height="32" src="https://github.com/MicaelMoras/MicaelMoras/blob/main/Img/claude.png"/></a></td>
+     <td align="center"><a href="https://chatgpt.com/" target="_blank"><img width="32" height="32" src="https://github.com/MicaelMoras/MicaelMoras/blob/main/Img/Chatgpt.png"/></a></td>
    </tr>
    <tr>
     <td align="center" colspan="12"></td>
