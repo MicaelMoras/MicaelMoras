@@ -30,7 +30,7 @@
 -----
 
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Micael</code>, I am 20 years old, live in Rio de Janeiro, and have been a programmer since the age of 19. Currently, I am a Computer science <code>student</code> at UVA.</a>.</i> :man_teacher:
+<i><b>Hello</b> :wave:, I'm  <code>Micael</code>, I am 20 years old, live in Rio de Janeiro, and have been a programmer since the age of 19. Currently, I am a Computer science <code>student</code> at UVA.</a>.</i> :man_teacher:
 </div>
 
 -----
