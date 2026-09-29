@@ -30,18 +30,18 @@
 -----
 
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Micael</code>, tenho 20 anos, moro no RJ e sou programador desde os 19 anos de idade. Atualmente sou <code>estudante</code> do Curso de Ciência da Computação da UVA</a>.</i> :man_teacher:
+<i><b>Olá</b> :wave:, sou o <code>Micael</code>, I am 20 years old, live in Rio de Janeiro, and have been a programmer since the age of 19. Currently, I am a Computer science <code>student</code> at UVA.</a>.</i> :man_teacher:
 </div>
 
 -----
 
 <div align="justify">
 
-Sou estudante de Ciência da Computação na <a href="https://www.uva.br/" target="_blank">Universidade Veiga de Almeida (UVA)</a>, atualmente no 4º período. Tenho interesse em desenvolvimento de software, engenharia de software, algoritmos, estruturas de dados, sistemas operacionais, arquitetura de computadores e inteligência artificial.
+I am a Computer Science student at <a href="https://www.uva.br/" target="_blank"> Universidade Veiga de Almeida (UVA)</a>, Currently in my fourth semester. I am interested in software development, software engineering, algorithms, data structures, operating systems, computer architecture, and artificial intelligence.
 
-Atualmente, estou construindo minha base técnica em programação e Ciência da Computação, com foco principalmente no ecossistema Java e no desenvolvimento de aplicações back-end. Este repositório reúne tudo o que venho aprendendo e praticando ao longo da minha formação, incluindo estudos, exercícios, projetos, desafios de programação e experimentos com diferentes tecnologias.
+I am currently building my technical foundation in programming and Computer Science, focusing primarily on the Java ecosystem and back-end application development. This repository gathers everything I have been learning and practicing throughout my training, including studies, exercises, projects, coding challenges, and experiments with various technologies.
 
-A ideia é utilizar este espaço como um registro da minha evolução como desenvolvedor, documentando desde os fundamentos da programação e da computação até conceitos mais avançados de desenvolvimento de software. Cada projeto e exercício representa uma etapa do meu aprendizado e da construção da minha base técnica.
+The idea is to use this space as a record of my growth as a developer, documenting everything from the fundamentals of programming and computing to more advanced software development concepts. Each project and exercise represents a step in my learning journey and the building of my technical foundation.
 
 </div>
 
