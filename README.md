@@ -1,3 +1,8 @@
+<div align="justify">
+<i><b>Olá</b> :wave:, sou o <code>Micael</code>, tenho 20 anos, moro no RJ e sou programador desde os 19 anos de idade. Atualmente sou <code>estudante</code> do Curso de Ciência da Computação da UVA</a>.</i> :man_teacher:
+</div>
+-----
+
 <div>
 <img align="center" alt="Header" src="https://github.com/MicaelMoras/MicaelMoras/blob/main/Img/Screenshot%202026-09-29%20161052.png"/>
 </div>
@@ -25,12 +30,6 @@
  <td align="center" colspan="11"></td>
 </tr> 
 </table>
-</div>
-
------
-
-<div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Micael</code>, tenho 20 anos, moro no RJ e sou programador desde os 19 anos de idade. Atualmente sou <code>estudante</code> do Curso de Ciência da Computação da UVA</a>.</i> :man_teacher:
 </div>
 
 -----
