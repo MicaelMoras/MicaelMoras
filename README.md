@@ -67,16 +67,11 @@ A ideia é utilizar este espaço como um registro da minha evolução como desen
     <td align="center"><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/MicaelMoras/MicaelMoras/blob/main/Img/html.svg"/></a></td>
     <td align="center"><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/MicaelMoras/MicaelMoras/blob/main/Img/css.svg"/></a></td>
     <td align="center"><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/MicaelMoras/MicaelMoras/blob/main/Img/mysql.png"/></a></td>
-    <td align="center"><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/postgresql.png?raw=true"/></a></td>
-    <td align="center"><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/mongodb.png?raw=true"/></a></td>
+    <td align="center"><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/MicaelMoras/MicaelMoras/blob/main/Img/postgresql.png"/></a></td>
+    <td align="center"><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/MicaelMoras/MicaelMoras/blob/main/Img/mongodb.png"/></a></td>
+   <td align="center"><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/MicaelMoras/MicaelMoras/blob/main/Img/docker.png"/></a></td>
   </tr>
   <tr>
-    <td align="center" colspan="12"></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/MicaelMoras/MicaelMoras/blob/main/Img/docker.png"/></a></td>
-  </tr>
-   <tr>
     <td align="center" colspan="12"></td>
   </tr>
    <tr>
@@ -84,7 +79,7 @@ A ideia é utilizar este espaço como um registro da minha evolução como desen
     <td align="center"><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://github.com/MicaelMoras/MicaelMoras/blob/main/Img/netbeans.png"/></a></td>
     <td align="center"><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/MicaelMoras/MicaelMoras/blob/main/Img/vs.png"/></a></td>
     <td align="center"><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/MicaelMoras/MicaelMoras/blob/main/Img/intellij.png"/></a></td>
-    <td align="center"><a href="https://claude.ai/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/claude.svg?raw=true"/></a></td>
+    <td align="center"><a href="https://claude.ai/" target="_blank"><img width="32" height="32" src="https://github.com/MicaelMoras/MicaelMoras/blob/main/Img/claude.png"/></a></td>
    </tr>
    <tr>
     <td align="center" colspan="12"></td>
